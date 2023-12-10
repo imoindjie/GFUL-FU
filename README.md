@@ -1,2 +1,2 @@
 # GFUL-FU
-Scripts used in "Fusion regression models with repeated functional data"
+Scripts used in "Fusion regression methods with repeated functional data"
